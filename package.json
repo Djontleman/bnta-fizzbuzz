@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "jest": "^27.2.4"
+  },
+  "name": "fizzbuzz",
+  "description": "In this exercise you'll be looking at [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz), a game designed to help kids learn about division. It's also a very common coding problem used in technical interviews as it lets developers demonstrate their knowledge of some fundamental concepts. The aim of the game is simple: players take it in turns to say a number, replacing the number with \"fizz\" if it divisible by 3, \"buzz\" if it's divisible by 5 and \"fizzbuzz\" if divisible by both. The sequence of numbers would be:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
